@@ -1,0 +1,6 @@
+{
+  "name": "K.Company & Designer",
+  "description": "K.Company & Designer provides creative graphic design, logo design, posters, Canva designs, AI-assisted artwork, social media graphics, and custom digital design services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
